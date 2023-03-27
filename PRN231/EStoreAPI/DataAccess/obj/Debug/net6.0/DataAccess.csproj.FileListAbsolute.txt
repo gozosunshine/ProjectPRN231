@@ -1,0 +1,75 @@
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll

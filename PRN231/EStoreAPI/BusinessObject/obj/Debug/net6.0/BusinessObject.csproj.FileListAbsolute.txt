@@ -1,0 +1,70 @@
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+C:\Users\Namkkkkk\Documents\GitHub\EStoreAPI\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.runtimeconfig.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\BusinessObject.genruntimeconfig.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

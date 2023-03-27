@@ -1,0 +1,5 @@
+
+EStoreAPI/.vs/**
+EStoreAPI/EStoreAPI/obj/**
+EStoreAPI/EStoreAPI/bin/Debug/net6.0/XLParser.dll
+*.cache

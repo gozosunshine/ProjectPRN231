@@ -1,0 +1,556 @@
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.Development.json
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.json
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.staticwebassets.runtime.json
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.exe
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.deps.json
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.runtimeconfig.json
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.dll
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.pdb
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.AssemblyReference.cache
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfoInputs.cache
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfo.cs
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CoreCompileInputs.cache
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cache
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cs
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.build.eStore.props
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eStore.props
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.pack.json
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.build.json
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.development.json
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\bundle\eStore.styles.css
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\projectbundle\eStore.bundle.scp.css
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.dll
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\refint\eStore.dll
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.pdb
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.genruntimeconfig.cache
+F:\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\ref\eStore.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.deps.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.runtimeconfig.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Template\Logo\logo.png
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.exe
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.staticwebassets.runtime.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.exe
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.deps.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.runtimeconfig.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.pdb
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Aspose.PDF.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Irony.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\XLParser.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.pdb
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.AssemblyReference.cache
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfoInputs.cache
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfo.cs
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CoreCompileInputs.cache
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cache
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cs
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.build.eStore.props
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eStore.props
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\bundle\eStore.styles.css
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\projectbundle\eStore.bundle.scp.css
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CopyComplete
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\refint\eStore.dll
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.pdb
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.genruntimeconfig.cache
+C:\Users\Namkkkkk\Documents\Assignment\prn231prjchinhthuc\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\ref\eStore.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.deps.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.runtimeconfig.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Template\Logo\logo.png
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.exe
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.Development.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.staticwebassets.runtime.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.exe
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.deps.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.runtimeconfig.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Aspose.PDF.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ClosedXML.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Irony.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Scrutor.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\XLParser.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.AssemblyReference.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfoInputs.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfo.cs
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CoreCompileInputs.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cs
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cs
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\bundle\eStore.styles.css
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\projectbundle\eStore.bundle.scp.css
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CopyComplete
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\refint\eStore.dll
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.pdb
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.genruntimeconfig.cache
+D:\aFU\SP23\PRN231\FinalProject\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\ref\eStore.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.deps.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.runtimeconfig.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Template\Logo\logo.png
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.exe
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.Development.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.staticwebassets.runtime.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.exe
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.deps.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.runtimeconfig.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Aspose.PDF.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ClosedXML.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Irony.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Scrutor.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\XLParser.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.AssemblyReference.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfoInputs.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfo.cs
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CoreCompileInputs.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cs
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cs
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\bundle\eStore.styles.css
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\projectbundle\eStore.bundle.scp.css
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CopyComplete
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\refint\eStore.dll
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.pdb
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.genruntimeconfig.cache
+D:\TPC\New folder (2)\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\ref\eStore.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Template\Logo\logo.png
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.Development.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.deps.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.runtimeconfig.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.exe
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.staticwebassets.runtime.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.exe
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.deps.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.runtimeconfig.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Aspose.PDF.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ClosedXML.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.Interfaces.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ExcelNumberFormat.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Irony.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Scrutor.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\SixLabors.Fonts.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IO.Packaging.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\XLParser.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.AssemblyReference.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfoInputs.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfo.cs
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CoreCompileInputs.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cs
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cs
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.eStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.build.eStore.props
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.eStore.props
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.eStore.props
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.pack.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\bundle\eStore.styles.css
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\projectbundle\eStore.bundle.scp.css
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CopyComplete
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\refint\eStore.dll
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.pdb
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.genruntimeconfig.cache
+E:\FPT_Uni\Kì 8\PRN231_Project\New folder\GroupProjectPRN231\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\ref\eStore.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Template\Logo\logo.png
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.Development.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\appsettings.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.deps.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.runtimeconfig.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.exe
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.staticwebassets.runtime.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.exe
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.deps.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.runtimeconfig.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\eStore.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Aspose.PDF.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ClosedXML.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.Interfaces.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\ExcelNumberFormat.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Irony.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Scrutor.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\SixLabors.Fonts.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.IO.Packaging.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\XLParser.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\BusinessObject.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\EStoreAPI.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\bin\Debug\net6.0\DataAccess.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.AssemblyReference.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfoInputs.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.AssemblyInfo.cs
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CoreCompileInputs.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cs
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.MvcApplicationPartsAssemblyInfo.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.RazorAssemblyInfo.cs
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\bundle\eStore.styles.css
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\scopedcss\projectbundle\eStore.bundle.scp.css
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.csproj.CopyComplete
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\refint\eStore.dll
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.pdb
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\eStore.genruntimeconfig.cache
+D:\TPC\New folder (2)\New folder\PRN231\EStoreAPI\eStore\obj\Debug\net6.0\ref\eStore.dll
